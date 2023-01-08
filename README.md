@@ -12,7 +12,7 @@ New year goals 2023
     - [X] ` in progress` ` ----`` - 01 - [HTML](01-Linkedin-Learning/-1-Programming-Foundation-Fundamentals/)
     - [X] ` in progress` ` ----`` - 02 - [CSS](01-Linkedin-Learning/-1-Programming-Foundation-Fundamentals/)
     - [X] ` in progress` ` ----`` - 03 - [COMNDLINE](01-Linkedin-Learning/-1-Programming-Foundation-Fundamentals/)
-    - [X] ` in progress` ` ----` - 04 - [GIT&GITHUB](01-Linkedin-Learning/-1-Programming-Foundation-Fundamentals/
+    - [X] ` in progress` ` ----` - 04 - [GIT&GITHUB](01-Linkedin-Learning/-1-Programming-Foundation-Fundamentals/)
     
     <br />
 
