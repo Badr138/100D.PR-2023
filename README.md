@@ -9,7 +9,7 @@ New year goals 2023
 <br />
 - ## Programming foundations path and HTML and CSS
 
-    - [X] ` Done` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-1-Programming-Foundation-Fundamentals/)
+    - [X] ` in progress` ` 2h 6m 40s` - 01 - [HTML](01-Linkedin-Learning/-1-Programming-Foundation-Fundamentals/)
 
 
     <br />
