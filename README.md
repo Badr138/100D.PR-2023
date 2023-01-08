@@ -7,7 +7,7 @@ New year goals 2023
 
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
-- ## Programming foundations path and HTML and CSS
+- ## HTML and CSS & COMNDLINE & GIT & GITHUB
 
     - [X] ` in progress` ` 2h 6m 40s` - 01 - [HTML](01-Linkedin-Learning/-1-Programming-Foundation-Fundamentals/)
 
